@@ -38,6 +38,7 @@
   "extra": {
     "flarum-extension": {
       "title": "Auto More",
+      "category": "feature",
       "icon": {
         "name": "fas fa-angle-double-down",
         "backgroundColor": "#94dcff",
